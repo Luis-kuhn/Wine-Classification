@@ -209,14 +209,14 @@ y_teste[300:305]
 
 
 
-
+```python
     702     0
     4438    1
     6436    1
     1039    0
     253     0
     Name: style, dtype: int64
-
+```
 
 
 
