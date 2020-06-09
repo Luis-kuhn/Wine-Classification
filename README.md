@@ -175,7 +175,6 @@ print ("Acurácia:", resultado )
     Acurácia: 0.9964102564102564
 
 
-# Prevendo
 
 
 ```python
